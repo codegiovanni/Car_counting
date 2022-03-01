@@ -7,7 +7,7 @@ pt2_x, pt2_y = None, None
 full_count = 0
 empty_count = 0
 line_count = 0
-parking_width = 44
+parking_width = 46
 
 font = cv2.FONT_HERSHEY_SIMPLEX
 
